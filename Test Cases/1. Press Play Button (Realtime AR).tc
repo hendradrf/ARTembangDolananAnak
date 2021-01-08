@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pressing the play button in the home page of the app to see the raltime AR, but i cant see it because the is no book of AR</description>
+   <name>1. Press Play Button (Realtime AR)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f57bfe0-e618-4655-87a0-31db0da017d9</testCaseGuid>
+</TestCaseEntity>
